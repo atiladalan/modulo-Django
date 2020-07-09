@@ -13,6 +13,7 @@ pytest-mock = "*"
 [packages]
 requests = "*"
 django = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
